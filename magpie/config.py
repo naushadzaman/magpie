@@ -7,6 +7,7 @@ MIN_WORD_COUNT = 5
 WORD2VEC_CONTEXT = 5
 
 # Models
+# NN_ARCHITECTURE = 'cnn'
 NN_ARCHITECTURE = 'cnn'
 
 # Training parameters
